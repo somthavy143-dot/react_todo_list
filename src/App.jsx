@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div className="h-screen flex justify-center items-center bg-gradient-to-r from-pink-50 to-purple-300 ">
+    <div className="h-screen flex justify-center items-center bg-gradient-to-r from-white to-yellow-300 ">
       <div className="p-16 bg-white rounded-2xl shadow-2xl">
         <h1 className="text-3xl font-bold">REACT TO DO LIST ✅</h1>
         <div className="flex mt-5 mb-3">
